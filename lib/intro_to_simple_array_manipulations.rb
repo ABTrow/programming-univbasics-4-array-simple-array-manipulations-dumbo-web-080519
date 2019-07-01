@@ -26,7 +26,7 @@ def using_concat(arr1, arr2)
   arr1.concat(arr2)
 end
 
-def using_insert(arr, elment)
+def using_insert(arr, element)
   arr.insert(4, element)
 end
 
@@ -41,3 +41,4 @@ end
 def using_delete(arr, string)
   arr.delete(string)
 end
+
